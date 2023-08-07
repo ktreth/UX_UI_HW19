@@ -121,6 +121,8 @@ h1 {
 
 button {
     background-color: #DD9F96;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    cursor:pointer;
     font-size: 20px;
     font-family: 'Montserrat';
     padding: 20px;
