@@ -83,6 +83,10 @@ a {
 }
 
 /*Hero style*/
+#myHero {
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
 
 .hero {
     display: flex;
