@@ -1,8 +1,8 @@
 html {
     scroll-behavior: smooth;
-  }
-  
-  #myBtn {
+}
+
+#myBtn {
     display: none; 
     position: fixed;
     bottom: 20px;
@@ -16,11 +16,11 @@ html {
     padding: 15px;
     border-radius: 10px;
     font-size: 18px; 
-  }
-  
-  #myBtn:hover {
+}
+
+#myBtn:hover {
     background-color:#dda09694; /* Add a dark-grey background on hover */
-  }
+}
 
 body {
     background-color: #F1F1F1;
